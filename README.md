@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aradhyapatro
 - 👀 I’m interested in Web-Dev,App-Dev,etc(ofc to learn more)
-- 🌱 I’m currently learning Web-Dev
+- 🌱 I’m currently learning Web-Dev(Node.js and express)
 - 💞️ I’m looking to collaborate on Web-Dev Projects
 - 📫 How to reach me at aradhyapatro14@gmail.com
 
