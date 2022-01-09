@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Web-Dev(Node.js and express)
 - 💞️ I’m looking to collaborate on Web-Dev Projects
 - 📫 How to reach me at aradhyapatro14@gmail.com
+-  Follow me and reach out to me in Twitter <a href="https://twitter.com/GeekyAradhya">Aradhyapatro</a>
 
 <!---
 Aradhyapatro/Aradhyapatro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
