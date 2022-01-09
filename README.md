@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aradhyapatro
 - 👀 I’m interested in Web-Dev,App-Dev,etc(ofc to learn more)
-- 🌱 I’m currently learning Web-Dev(Node.js and express)
+- 🌱 I’m currently MERN Stack Web-Developer 
 - 💞️ I’m looking to collaborate on Web-Dev Projects
 - 📫 How to reach me at aradhyapatro14@gmail.com
 - <img src="https://img.icons8.com/color/24/000000/twitter--v2.png" /> Follow me and reach out to me in Twitter <a href="https://twitter.com/GeekyAradhya">Aradhyapatro</a>
