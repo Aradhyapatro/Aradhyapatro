@@ -1,6 +1,6 @@
 - ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="19px">, I'm [Aradhya](https://Aradhyapatro.github.io)
 - 👀 I’m interested in Web-Development (enthusiastic to Learn More)
-- 🌱 I’m currently MERN Stack Web-Developer 
+- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="25px"> I’m currently a MERN Stack Web-Developer 
 - 💞️ I’m looking to collaborate on Web-Dev Projects
 - 📫 How to reach me at aradhyapatro14@gmail.com
 - <img src="https://img.icons8.com/color/24/000000/twitter--v2.png" /> Follow me and reach out to me in Twitter <a href="https://twitter.com/GeekyAradhya">  Aradhyapatro</a>
